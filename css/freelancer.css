@@ -221,7 +221,7 @@ section.success {
   height: 20px;
   font-size: 20px;
   text-align: center;
-  top: 50%;
+  top: 30%;
   margin-top: -12px;
   color: white;
 }
@@ -460,6 +460,8 @@ fieldset[disabled] .btn-success.active {
   right: 25px;
   cursor: pointer;
 }
+
+
 .portfolio-modal .close-modal:hover {
   opacity: 0.3;
 }
@@ -514,3 +516,6 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+
+
+
